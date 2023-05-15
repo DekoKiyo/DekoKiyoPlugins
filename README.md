@@ -1,10 +1,11 @@
 <p align="center">
 
-[![Primary](./Images/PrimaryScreenshot.png)](https://www.lcpdfr.com/downloads/gta5mods/scripts/43022-dynamic-lspdfr-add-callouts-and-more/)
-[![Discord](./Images/Discord.png)](https://discord.gg/ZxJbeR9Agg)
+[![Primary](./Readme/Images/Main.png)](https://www.lcpdfr.com/downloads/gta5mods/scripts/43022-dynamic-lspdfr-add-callouts-and-more/)
+[![Discord](./Readme/Images/Discord.png)](https://discord.gg/ZxJbeR9Agg)
 
 </p>
 
-# Select Languages
-## [日本語](https://github.com/Dekokiyo/DekoKiyoPlugins/blob/main/Readme/Japanese)
-## [English](https://github.com/Dekokiyo/DekoKiyoPlugins/blob/main/Readme/English)
+|      Plugin       |                                                                                           リンク                                                                                           |
+| :---------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  DekoKiyo Tools   |    [日本語](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/DekoKiyoToolsJP.md) [English](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/DekoKiyoToolsEN.md)    |
+| DekoKiyo Callouts | [日本語](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/DekoKiyoCalloutsJP.md) [English](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/DekoKiyoCalloutsEN.md) |
