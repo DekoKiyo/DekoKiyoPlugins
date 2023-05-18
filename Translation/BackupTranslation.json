@@ -1,4 +1,88 @@
 {
+    "BackupLocal": {
+        "0": "\u81ea\u52d5\u8eca\u8b66\u3089\u968a",
+        "3": "Local"
+    },
+    "BackupState": {
+        "0": "\u4ea4\u901a\u6a5f\u52d5\u968a",
+        "3": "State"
+    },
+    "SpecialSWAT": {
+        "0": "\u6a5f\u52d5\u968a",
+        "3": "SWAT"
+    },
+    "SpecialNoose": {
+        "0": "\u7279\u6b8a\u6025\u8972\u90e8\u968a",
+        "3": "Noose"
+    },
+    "HelicopterLocal": {
+        "0": "\u822a\u7a7a\u968a",
+        "3": "Local"
+    },
+    "HelicopterNoose": {
+        "0": "\u822a\u7a7a\u6a5f\u52d5\u968a",
+        "3": "Noose"
+    },
+    "EMSFire": {
+        "0": "\u6d88\u9632\u8eca",
+        "3": "FireDept"
+    },
+    "EMSAmbulance": {
+        "0": "\u6551\u6025\u8eca",
+        "3": "Ambulance"
+    },
+    "GenderMale": {
+        "0": "\u7537\u6027",
+        "3": "Male"
+    },
+    "GenderFemale": {
+        "0": "\u5973\u6027",
+        "3": "Female"
+    },
+    "Code2": {
+        "0": "\u8b66\u6212",
+        "3": "Code2"
+    },
+    "Code3": {
+        "0": "\u7dca\u6025",
+        "3": "Code3"
+    },
+    "TrafficStop": {
+        "0": "\u8077\u52d9\u8cea\u554f",
+        "3": "Traffic Stop"
+    },
+    "Pursuit": {
+        "0": "\u8ffd\u8de1",
+        "3": "Pursuit"
+    },
+    "PatrolUnit": {
+        "0": "\u8b66\u5bdf\u5b98",
+        "3": "Patrol Unit"
+    },
+    "MalePatrolUnit": {
+        "0": "\u7537\u6027\u8b66\u5bdf\u5b98",
+        "3": "Male Patrol Unit"
+    },
+    "FemalePatrolUnit": {
+        "0": "\u5973\u6027\u8b66\u5bdf\u5b98",
+        "3": "Female Patrol Unit"
+    },
+    "PoliceBikeUnit": {
+        "0": "\u767d\u30d0\u30a4\u8b66\u5bdf\u5b98",
+        "3": "Police Bike Unit"
+    },
+    "SpecialUnit": {
+        "0": "\u7279\u6b8a\u90e8\u968a",
+        "3": "Special Unit"
+    },
+    "HelicopterUnit": {
+        "0": "\u822a\u7a7a\u968a",
+        "3": "Helicopter Unit"
+    },
+    "EmergencyService": {
+        "0": "\u6d88\u9632\u30fb\u6551\u6025",
+        "3": "EMS"
+    },
     "ContextMenuTitle": {
         "0": "\u7dcf\u5408\u30e1\u30cb\u30e5\u30fc",
         "2": "\u9078\u55ae",
