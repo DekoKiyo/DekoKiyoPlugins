@@ -179,7 +179,12 @@
     },
     "UpdateVersion": {
         "0": "~r~\u4eca\u306e\u30d0\u30fc\u30b8\u30e7\u30f3~s~: {0}\n~g~\u6700\u65b0\u7248\u306e\u30d0\u30fc\u30b8\u30e7\u30f3~s~: {1}",
-        "3": "~r~Current Version~s~: {0}\n~g~Latest Version~s~: {1}"
+        "3": "~r~Current Version~s~: {0}\n~g~Latest Version~s~: {1}",
+        "5": "~r~Aktuelle Version~s~: {0}\n~g~Vorherige Version~s~: {1}",
+        "6": "~r~Versione attuale~s~: {0}\n ~g~Ultima versione~s~: {1}",
+        "9": "~r~Vers\u00e3o Atual~s~:{0}\n~g~\u00dalrima Vers\u00e3o~s~:{1}",
+        "14": "~r~Aktualni verze~s~: {0}\n~g~Posledni verze~s~: {1}",
+        "20": "~r~Dabartin\u0117 versija~s~: {0}\n~g~Naujausia versija~s~: {1}"
     },
     "ChangeRandomNum": {
         "0": "\u4e71\u6570\u751f\u6210\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u304c~o~{0}~s~\u306b\u8a2d\u5b9a\u3055\u308c\u307e\u3057\u305f\u3002",
@@ -288,7 +293,9 @@
     },
     "LanguageSelectItemDesc": {
         "0": "\u4f7f\u7528\u3059\u308b~b~\u8a00\u8a9e~s~\u3092\u5909\u66f4\u3057\u307e\u3059\u3002\n\u3053\u308c\u306f~g~DekoKiyo\u4f5c\u306e\u30d7\u30e9\u30b0\u30a4\u30f3\u306e\u307f~s~\u306b\u9069\u7528\u3055\u308c\u307e\u3059\u3002",
-        "3": "Change ~b~Language~s~ to use.\nThis only applies to ~g~plugins created by DekoKiyo~s~."
+        "3": "Change ~b~Language~s~ to use.\nThis only applies to ~g~plugins created by DekoKiyo~s~.",
+        "5": "~b~Sprache~s~ \u00e4ndern.\nDiese Option funktioniert nur f\u00fcr ~g~plugins von DekoKiyo~s~.",
+        "6": "Cambia ~b~Lingua~s~ da usare.\nQuesto vale solo per ~g~plugin creati da DekoKiyo~s~"
     },
     "AlgorithmItem": {
         "0": "\u4e71\u6570\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0",
@@ -309,6 +316,10 @@
     },
     "AlgorithmItemDesc": {
         "0": "\u4f7f\u7528\u3059\u308b~b~\u4e71\u6570\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0~s~\u3092\u5909\u66f4\u3057\u307e\u3059\u3002",
-        "3": "Change ~b~Random Number Algorithm~s~ to use."
+        "3": "Change ~b~Random Number Algorithm~s~ to use.",
+        "5": "\u00c4nder den ~b~Zuf\u00e4lligen Zahlen Algorithmus~s~ um dies zu benutzen.",
+        "6": "Cambia l'~o~Algoritmo del numero casuale~s~ usando ~b~DynamicLSPDFR~s~.",
+        "9": "Mude o ~o~N\u00famero do algoritmo aleat\u00f3rio~s~ usando ~b~DynamicLSPDFR~s~.",
+        "14": "Zmente ~algoritmy~nahodnych cisel~ pomoci ~b~DynamicLSPDFR~s~."
     }
 }
