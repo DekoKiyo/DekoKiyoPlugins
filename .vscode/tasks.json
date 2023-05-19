@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "DekoKiyoCommon ビルド",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass .\\Translate.ps1",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+    ]
+}
