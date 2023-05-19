@@ -20,10 +20,10 @@ If it's gone, I don't approve of it.
 # DekoKiyo Plugins Translation Guide
 1. Create your [crowdin](https://crowdin.com/) account. (Omitted Here)
 2. Open the translation page of crowdin.
-![image](https://github.com/DekoKiyo/DynamicLSPDFR/assets/97837904/fee1adda-f18a-4b04-8bff-b2a4e3560dd3)
+![image](https://github.com/DekoKiyo/DekoKiyoPlugins/assets/97837904/44d68062-c725-4ae7-944c-71b5f8c8aca2)
 3. Choose your Language.
 4. Open any file.<br/>
-![image](https://github.com/DekoKiyo/DynamicLSPDFR/assets/97837904/5213a650-7cac-4c71-bba0-6e4dcf4880e2)
+![image](https://github.com/DekoKiyo/DekoKiyoPlugins/assets/97837904/7f313682-b90f-4716-a7b0-ca385ee05a57)
 
 > **Warning**<br>
 > There are multiple files but don't forget to translate them all.<br>
