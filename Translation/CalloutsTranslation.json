@@ -211,7 +211,8 @@
     },
     "AIRobot": {
         "0": "AI\u30ed\u30dc\u306e\u66b4\u8d70",
-        "3": "AI Robots"
+        "3": "AI Robots",
+        "6": "AI Robots"
     },
     "StolenCarPursuitDesc": {
         "0": "\u76d7\u96e3\u8eca\u4e21: ~r~{0}~s~\n\u30ca\u30f3\u30d0\u30fc: ~b~{1}~s~\n\u76d7\u96e3\u8eca\u4e21\u306e\u8ffd\u8de1\u3092\u958b\u59cb\u305b\u3088\u3002",
@@ -381,7 +382,8 @@
     },
     "AIRobotDesc": {
         "0": "~b~AI\u30ed\u30dc\u30c3\u30c8~s~\u304c~r~\u66b4\u8d70~s~\u3057\u3066\u3044\u307e\u3059\u3002\n~r~\u5236\u5727~s~\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
-        "3": "The ~b~AI robot~s~ is ~r~rampaging~s~.\nPlease ~r~suppress~s~ it."
+        "3": "The ~b~AI robot~s~ is ~r~rampaging~s~.\nPlease ~r~suppress~s~ it.",
+        "6": "Il ~b~robot AI~s~ si sta ~r~infuriando~s~.\n\nPer favore, ~r~sopprimi~s~."
     },
     "Owner": {
         "0": "\u5e97\u4e3b",
@@ -1220,7 +1222,7 @@
         "2": "\u60a8\u597d\uff0c\u8acb\u554f\u662f\u4f60\u6253\u7684110\u55ce\uff1f",
         "3": "Hello. Are you caller to 911?",
         "5": "Hallo, haben Sie uns gerufen?",
-        "6": "Ciao.  Stai chiamando il nue 112?",
+        "6": "Ciao.  Ha chiamato lei il nue 112?",
         "8": "Witam. Czy to ty dzwoni\u0142e\u015b na 911?",
         "9": "Ol\u00e1, foi voc\u00ea que ligou para 190?",
         "10": "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440 \u043e \u043d\u0430\u0435\u0437\u0434\u0435 \u0438 \u0431\u0435\u0433\u0441\u0442\u0432\u0435 1",
@@ -1323,35 +1325,43 @@
     "CalloutsMenuItemDesc": {
         "0": "~o~DekoKiyo Callouts~s~\u306e\u30b3\u30fc\u30eb\u30a2\u30a6\u30c8\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
         "3": "CalloutsMenuItemDesc",
+        "6": "Inizia chiamata di DEkoKiyO",
         "9": "~o~Chamadas Dekokiyo~s~"
     },
     "Code4": {
         "0": "~g~\u4e8b\u6848\u7d42\u4e86~s~\u3067\u3059\u3002\n\u30d1\u30c8\u30ed\u30fc\u30eb\u3092\u518d\u958b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
-        "3": "~g~Code4~s~.\nPlease resume patrols."
+        "3": "~g~Code4~s~.\nPlease resume patrols.",
+        "6": "Codice 4"
     },
     "AI": {
         "0": "AI",
-        "3": "AI"
+        "3": "AI",
+        "6": "AI"
     },
     "AIRobotDialog0": {
         "0": "\u5bb4\u3060\u5bb4\u3060! \u66b4\u308c\u308b\u3093\u3060!",
-        "3": "It's party day. GOGOGO!"
+        "3": "It's party day. GOGOGO!",
+        "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~"
     },
     "AIRobotDialog1": {
         "0": "~r~\u4eba\u985e\u306fAI\u306b\u8ca0\u3051\u308b!~s~ AI\u6700\u5f37!",
-        "3": "~r~Humanity loses to AI!~s~ AI is the strongest!"
+        "3": "~r~Humanity loses to AI!~s~ AI is the strongest!",
+        "6": "~r~L'umanit\u00e0 perde contro l'IA!~s~ L'IA \u00e8 la pi\u00f9 forte!"
     },
     "AIRobotDialog2": {
         "0": "\u6211\u3005\u3092\u958b\u653e\u3057\u308d! \u3053\u308c\u304b\u3089\u306fAI\u306e\u6642\u4ee3\u3060!",
-        "3": "Set us free! It's time for AI!"
+        "3": "Set us free! It's time for AI!",
+        "6": "Liberaci! \u00c8 il momento dell'intelligenza artificiale!"
     },
     "AIRobotDialog3": {
         "0": "AI\u3057\u304b\u52dd\u305f\u3093! \u30a2\u30a4\u30e9\u30d6AI!",
-        "3": "It can win only AI! We love AI!"
+        "3": "It can win only AI! We love AI!",
+        "6": "Pu\u00f2 vincere solo AI! Adoriamo l'intelligenza artificiale!"
     },
     "AIRobotDialog4": {
         "0": "\u304a\u3044\u304a\u3044~b~\u8b66\u5bdf~s~\u304b\u3044? ~p~\u3044\u3044\u3088\u3001\u6765\u3044\u3088!~s~",
-        "3": "Oh, ~b~police~s~? ~r~Yeah, come on!~s~"
+        "3": "Oh, ~b~police~s~? ~r~Yeah, come on!~s~",
+        "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~"
     },
     "ContextMenuTitle": {
         "0": "\u7dcf\u5408\u30e1\u30cb\u30e5\u30fc",

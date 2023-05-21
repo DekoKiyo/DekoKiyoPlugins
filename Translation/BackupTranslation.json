@@ -2,106 +2,127 @@
     "BackupLocal": {
         "0": "\u81ea\u52d5\u8eca\u8b66\u3089\u968a",
         "3": "Local",
+        "6": "Locale",
         "14": "Mistni zalohy"
     },
     "BackupState": {
         "0": "\u4ea4\u901a\u6a5f\u52d5\u968a",
         "3": "State",
+        "6": "Statale ",
         "14": "Statni zalohy "
     },
     "SpecialSWAT": {
         "0": "\u6a5f\u52d5\u968a",
         "3": "SWAT",
+        "6": "Squadre Speciali ",
         "14": "SWAT "
     },
     "SpecialNoose": {
         "0": "\u7279\u6b8a\u6025\u8972\u90e8\u968a",
         "3": "Noose",
+        "6": "Squadre speciale ",
         "14": "Noose"
     },
     "HelicopterLocal": {
         "0": "\u822a\u7a7a\u968a",
         "3": "Local",
+        "6": "Elicottero ",
         "14": "Letecka podpora "
     },
     "HelicopterNoose": {
         "0": "\u822a\u7a7a\u6a5f\u52d5\u968a",
         "3": "Noose",
+        "6": "Elicottero squadra speciale ",
         "14": "Letecka zasahova podpora "
     },
     "EMSFire": {
         "0": "\u6d88\u9632\u8eca",
         "3": "FireDept",
+        "6": "Vigili del fuoco ",
         "14": "Zachrana slozka od hasicu "
     },
     "EMSAmbulance": {
         "0": "\u6551\u6025\u8eca",
         "3": "Ambulance",
+        "6": "Ambulanza",
         "14": "Zachrana slozka "
     },
     "GenderMale": {
         "0": "\u7537\u6027",
         "3": "Male",
+        "6": "Sesso Maschio",
         "14": "Pohlavi muze "
     },
     "GenderFemale": {
         "0": "\u5973\u6027",
         "3": "Female",
+        "6": "Sesso Femmina",
         "14": "Pohlavi zeny "
     },
     "Code2": {
         "0": "\u8b66\u6212",
         "3": "Code2",
+        "6": "Codice 2",
         "14": "Kod 2"
     },
     "Code3": {
         "0": "\u7dca\u6025",
         "3": "Code3",
+        "6": "Codice 3",
         "14": "Kod 3"
     },
     "TrafficStop": {
         "0": "\u8077\u52d9\u8cea\u554f",
         "3": "Traffic Stop",
+        "6": "Posto di blocco ",
         "14": "Zastaveni vozidla "
     },
     "Pursuit": {
         "0": "\u8ffd\u8de1",
         "3": "Pursuit",
+        "6": "Inseguimento",
         "14": "Pronasledovani podezreleho"
     },
     "PatrolUnit": {
         "0": "\u8b66\u5bdf\u5b98",
         "3": "Patrol Unit",
+        "6": "Unit\u00e0 di pattuglia ",
         "14": "Hlidkovaci jednotka "
     },
     "MalePatrolUnit": {
         "0": "\u7537\u6027\u8b66\u5bdf\u5b98",
         "3": "Male Patrol Unit",
+        "6": "Unit\u00e0 pattuglia uomo",
         "14": "Hlidkovaci jednotka muze"
     },
     "FemalePatrolUnit": {
         "0": "\u5973\u6027\u8b66\u5bdf\u5b98",
         "3": "Female Patrol Unit",
+        "6": "Unit\u00e0 pattuglia donna",
         "14": "Hlidkovaci jednotka zeny "
     },
     "PoliceBikeUnit": {
         "0": "\u767d\u30d0\u30a4\u8b66\u5bdf\u5b98",
         "3": "Police Bike Unit",
+        "6": "Unit\u00e0 motorizzata",
         "14": "Policejni motorkarska jednotka "
     },
     "SpecialUnit": {
         "0": "\u7279\u6b8a\u90e8\u968a",
         "3": "Special Unit",
+        "6": "Unit\u00e0 speciale ",
         "14": "Specialni jednotka "
     },
     "HelicopterUnit": {
         "0": "\u822a\u7a7a\u968a",
         "3": "Helicopter Unit",
+        "6": "Supporto aereo",
         "14": "Letecka jednotka "
     },
     "EmergencyService": {
         "0": "\u6d88\u9632\u30fb\u6551\u6025",
         "3": "EMS",
+        "6": "Servizio Di Emergenza",
         "14": "Pohotovostni sluzba "
     },
     "ContextMenuTitle": {
