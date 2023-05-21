@@ -209,6 +209,10 @@
         "16": "Smitnings Olycka",
         "20": "Pab\u0117gimas i\u0161 \u012fvykio vietos"
     },
+    "AIRobot": {
+        "0": "AI\u30ed\u30dc\u306e\u66b4\u8d70",
+        "3": "AI Robots"
+    },
     "StolenCarPursuitDesc": {
         "0": "\u76d7\u96e3\u8eca\u4e21: ~r~{0}~s~\n\u30ca\u30f3\u30d0\u30fc: ~b~{1}~s~\n\u76d7\u96e3\u8eca\u4e21\u306e\u8ffd\u8de1\u3092\u958b\u59cb\u305b\u3088\u3002",
         "2": "\u5931\u7aca\u8eca\u8f1b: ~r~{0}~s~\n\u8eca\u724c\u865f\u78bc: ~b~{1}~s~\n\u958b\u59cb\u5b9a\u4f4d\u5931\u7aca\u8eca\u8f1b\u3002",
@@ -374,6 +378,10 @@
         "14": "Doslo k ~r~Uderit a utect~s~. Vyslechni si svedky.",
         "16": "En ~r~Smitnings olycka~s~ har intr\u00e4ffat.\nTa kontakt med eventuella vittnen.",
         "20": "~r~Pab\u0117gimas i\u0161 autovarijos~s~ \u012fvyko\nI\u0161klausyk liudytoj\u0173"
+    },
+    "AIRobotDesc": {
+        "0": "~b~AI\u30ed\u30dc\u30c3\u30c8~s~\u304c~r~\u66b4\u8d70~s~\u3057\u3066\u3044\u307e\u3059\u3002\n~r~\u5236\u5727~s~\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "3": "The ~b~AI robot~s~ is ~r~rampaging~s~.\nPlease ~r~suppress~s~ it."
     },
     "Owner": {
         "0": "\u5e97\u4e3b",
@@ -1320,6 +1328,30 @@
     "Code4": {
         "0": "~g~\u4e8b\u6848\u7d42\u4e86~s~\u3067\u3059\u3002\n\u30d1\u30c8\u30ed\u30fc\u30eb\u3092\u518d\u958b\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
         "3": "~g~Code4~s~.\nPlease resume patrols."
+    },
+    "AI": {
+        "0": "AI",
+        "3": "AI"
+    },
+    "AIRobotDialog0": {
+        "0": "\u5bb4\u3060\u5bb4\u3060! \u66b4\u308c\u308b\u3093\u3060!",
+        "3": "It's party day. GOGOGO!"
+    },
+    "AIRobotDialog1": {
+        "0": "~r~\u4eba\u985e\u306fAI\u306b\u8ca0\u3051\u308b!~s~ AI\u6700\u5f37!",
+        "3": "~r~Humanity loses to AI!~s~ AI is the strongest!"
+    },
+    "AIRobotDialog2": {
+        "0": "\u6211\u3005\u3092\u958b\u653e\u3057\u308d! \u3053\u308c\u304b\u3089\u306fAI\u306e\u6642\u4ee3\u3060!",
+        "3": "Set us free! It's time for AI!"
+    },
+    "AIRobotDialog3": {
+        "0": "AI\u3057\u304b\u52dd\u305f\u3093! \u30a2\u30a4\u30e9\u30d6AI!",
+        "3": "It can win only AI! We love AI!"
+    },
+    "AIRobotDialog4": {
+        "0": "\u304a\u3044\u304a\u3044~b~\u8b66\u5bdf~s~\u304b\u3044? ~p~\u3044\u3044\u3088\u3001\u6765\u3044\u3088!~s~",
+        "3": "Oh, ~b~police~s~? ~r~Yeah, come on!~s~"
     },
     "ContextMenuTitle": {
         "0": "\u7dcf\u5408\u30e1\u30cb\u30e5\u30fc",
