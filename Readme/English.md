@@ -8,11 +8,7 @@ Check it when you get Error code!
 
 | Error Code |                       Descriptions                       |
 | :--------: | :------------------------------------------------------: |
-|     10     |             The version checker Error (GTA5)             |
-|     11     |            The version checker Error (LSPDFR)            |
-|     12     |             The version checker Error (RPH)              |
-|     13     |         The version checker Error (RAGENativeUI)         |
-|     14     |       The version checker Error (Newtonsoft.Json)        |
+|    000     |         DekoKiyo Tools Version is not supported.         |
 |     30     |                                                          |
 |     31     |                                                          |
 |     50     |         Failed to initialize callout was began.          |
