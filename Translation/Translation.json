@@ -2217,5 +2217,29 @@
         "9": "Mude o ~o~N\u00famero do algoritmo aleat\u00f3rio~s~ usando ~b~DynamicLSPDFR~s~.",
         "14": "Zmente ~algoritmy~nahodnych cisel~ pomoci ~b~DynamicLSPDFR~s~.",
         "20": "Pakeisti naudojam\u0105~b~Atsitiktinio Numerio Algoritm\u0105~s~"
+    },
+    "Advancement": {
+        "0": "\u5b9f\u7e3e",
+        "3": "Advamcement"
+    },
+    "AdvancementStatus": {
+        "0": "\u5b9f\u7e3e\u306e\u72b6\u614b\u3092\u78ba\u8a8d",
+        "3": "Check Advancement Status"
+    },
+    "AdvancementCompleted": {
+        "0": "\u5b9f\u7e3e\u89e3\u9664",
+        "3": "You made the Advancement"
+    },
+    "AdvancementName": {
+        "0": "\u5b9f\u7e3e\u540d",
+        "3": "Advancement Name"
+    },
+    "AdvancementMadeTime": {
+        "0": "\u89e3\u9664\u3057\u305f\u65e5",
+        "3": "Completed Day"
+    },
+    "AdvancementProgress": {
+        "0": "\u5b9f\u7e3e\u89e3\u9664\u7387",
+        "3": "Progress"
     }
 }
