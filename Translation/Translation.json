@@ -170,6 +170,86 @@
         "14": "Pohotovostni sluzba ",
         "20": "GMP"
     },
+    "UnitRequested": {
+        "0": "~b~{0}~s~\u3092~g~\u672c\u90e8~s~\u306b\u8981\u8acb\u3057\u307e\u3057\u305f\u3002",
+        "3": "Requesting ~b~{0} Unit~s~ to ~g~Dispatch~s~."
+    },
+    "TeleportUnit": {
+        "0": "~b~\u5fdc\u63f4~s~\u306e\u5230\u7740\u304c\u9045\u3044\u5834\u5408\u306f{0}\u3067~y~\u30c6\u30ec\u30dd\u30fc\u30c8~s~\u3067\u304d\u307e\u3059\u3002",
+        "3": "If ~b~unit~s~ arrives is lating, you can ~y~teleport~s~ with {0}."
+    },
+    "Coroner": {
+        "0": "\u691c\u8996\u5b98",
+        "3": "Coroner"
+    },
+    "CoronerMenu": {
+        "0": "\u691c\u8996\u5b98\u30e1\u30cb\u30e5\u30fc",
+        "3": "Coroner Menu"
+    },
+    "CoronerReport": {
+        "0": "\u691c\u8996\u5b98\u30ec\u30dd\u30fc\u30c8",
+        "3": "Coroner Report"
+    },
+    "Name": {
+        "0": "\u540d\u524d",
+        "3": "Name"
+    },
+    "Sex": {
+        "0": "\u6027\u5225",
+        "3": "Sex"
+    },
+    "CauseOfDeath": {
+        "0": "\u6b7b\u56e0",
+        "3": "Cause of Death"
+    },
+    "DiedDay": {
+        "0": "\u6b7b\u4ea1\u65e5",
+        "3": "Died Day"
+    },
+    "NoData": {
+        "0": "\u30c7\u30fc\u30bf\u306a\u3057",
+        "3": "No Data"
+    },
+    "NoDeadBodies": {
+        "0": "\u3053\u306e\u4ed8\u8fd1\u306b~r~\u6b7b\u4f53~s~\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        "3": "There are no ~r~Dead Bodies~s~ nearby you."
+    },
+    "CoronerComment0": {
+        "0": "\u304a\u75b2\u308c\u69d8\u3067\u3059\u3002\u6b7b\u4f53\u306e\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u306d\u3002",
+        "3": "Hello! I'll take care of the corpse."
+    },
+    "CoronerComment1": {
+        "0": "\u6700\u8fd1\u5e73\u548c\u306b\u306a\u3063\u305f\u3068\u601d\u3063\u3066\u305f\u3093\u3060\u3051\u3069\u306a\u3042\u2026",
+        "3": "I thought things had calmed down recently, but..."
+    },
+    "CoronerComment2": {
+        "0": "\u3053\u306e\u5cf6\u304b\u3089\u6b7b\u4f53\u304c\u6d88\u3048\u308b\u3053\u3068\u306f\u306a\u3044\u306e\u3060\u308d\u3046\u3002",
+        "3": "The corpses will never disappear from this island."
+    },
+    "CoronerComment3": {
+        "0": "\u304a\u52e4\u3081\u3054\u82e6\u52b4\u3055\u307e\u3067\u3059\u3002\u304a\u4e92\u3044\u5927\u5909\u3067\u3059\u306d\u3002",
+        "3": "Oh my god. Ah... I can't sleep today too."
+    },
+    "CoronerComment4": {
+        "0": "\u307e\u305f\u6b7b\u4f53\u304b\u2026 \u4eca\u65e5\u30675\u4ef6\u76ee\u3060\u305e?",
+        "3": "Another corpse... it's the 5th one today, huh?"
+    },
+    "CoronerComment5": {
+        "0": "\u3055\u3063\u3055\u3068\u7d42\u308f\u3089\u305b\u3066\u3001\u5e30\u308d\u3046\u3002",
+        "3": "Let's finish it quickly and go home."
+    },
+    "CoronerComment6": {
+        "0": "\u3046\u308f\u3002\u4f55\u304c\u3042\u3063\u305f\u3089\u3053\u3046\u306a\u308b\u3093\u3060?",
+        "3": "Wow. what would happen if this happens?"
+    },
+    "CoronerCheckPls": {
+        "0": "~g~\u8a73\u7d30\u60c5\u5831~s~\u306f~b~\u691c\u8996\u5b98\u30ec\u30dd\u30fc\u30c8~s~\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
+        "3": "If you want to ~g~more details~s~, you can check the ~b~Coroner Report~s~."
+    },
+    "CoronerBye": {
+        "0": "\u304a\u75b2\u308c\u69d8\u3067\u3057\u305f! \u3044\u3044\u4e00\u65e5\u3092!",
+        "3": "I wish you the best! Have a nice day!"
+    },
     "GangShootout": {
         "0": "\u30ae\u30e3\u30f3\u30b0\u306b\u3088\u308b\u9283\u6483\u6226",
         "1": "\u5e2e\u6d3e\u67aa\u6218",
