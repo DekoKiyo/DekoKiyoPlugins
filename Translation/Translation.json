@@ -1,32 +1,52 @@
 {
     "Advancement": {
         "0": "\u5b9f\u7e3e",
-        "3": "Advamcement"
+        "3": "Advamcement",
+        "6": "Avanzamento",
+        "9": "Avan\u00e7o",
+        "13": "\u0130lerleme"
     },
     "AdvancementStatus": {
         "0": "\u5b9f\u7e3e\u306e\u72b6\u614b\u3092\u78ba\u8a8d",
-        "3": "Check Advancement Status"
+        "3": "Check Advancement Status",
+        "6": "Stato avanzamento ",
+        "9": "Status de Avan\u00e7o",
+        "13": "\u0130lerlemeyi Kontrol Et"
     },
     "AdvancementCompleted": {
         "0": "\u5b9f\u7e3e\u89e3\u9664",
-        "3": "You made the Advancement"
+        "3": "You made the Advancement",
+        "6": "Avanzamento Completato",
+        "9": "Progresso Conclu\u00eddo",
+        "13": "\u0130lerleme Kaydettin"
     },
     "AdvancementName": {
         "0": "\u5b9f\u7e3e\u540d",
-        "3": "Advancement Name"
+        "3": "Advancement Name",
+        "6": "Nome Avanzamento",
+        "9": "Nome do Avan\u00e7o",
+        "13": "Ba\u015far\u0131m Ad\u0131"
     },
     "AdvancementMadeTime": {
         "0": "\u89e3\u9664\u3057\u305f\u65e5",
-        "3": "Completed Day"
+        "3": "Completed Day",
+        "6": "Tempo avanzamento",
+        "9": "Tempo do Avan\u00e7o",
+        "13": "Tamamlanan G\u00fcn"
     },
     "AdvancementProgress": {
         "0": "\u5b9f\u7e3e\u89e3\u9664\u7387",
-        "3": "Progress"
+        "3": "Progress",
+        "6": "Progresso avanzamento",
+        "9": "Progresso do Avan\u00e7o",
+        "13": "S\u00fcre\u00e7"
     },
     "BackupLocal": {
         "0": "\u81ea\u52d5\u8eca\u8b66\u3089\u968a",
         "3": "Local",
         "6": "Locale",
+        "9": "Local",
+        "13": "Asayi\u015f\n",
         "14": "Mistni zalohy",
         "20": "Vietinis"
     },
@@ -34,6 +54,8 @@
         "0": "\u4ea4\u901a\u6a5f\u52d5\u968a",
         "3": "State",
         "6": "Statale ",
+        "9": "Estado",
+        "13": "Trafik",
         "14": "Statni zalohy ",
         "20": "Greitkelio"
     },
@@ -41,6 +63,8 @@
         "0": "\u6a5f\u52d5\u968a",
         "3": "SWAT",
         "6": "Squadre Speciali ",
+        "9": "SWAT",
+        "13": "Polis \u00d6zel Harekat",
         "14": "SWAT ",
         "20": "SWAT"
     },
@@ -48,6 +72,8 @@
         "0": "\u7279\u6b8a\u6025\u8972\u90e8\u968a",
         "3": "Noose",
         "6": "Squadre speciale ",
+        "9": "Noose",
+        "13": "Jandarma \u00d6zel Harekat",
         "14": "Noose",
         "20": "NOOSE"
     },
@@ -55,6 +81,8 @@
         "0": "\u822a\u7a7a\u968a",
         "3": "Local",
         "6": "Elicottero ",
+        "9": "Helic\u00f3ptero Local",
+        "13": "Asayi\u015f",
         "14": "Letecka podpora ",
         "20": "Vietinis"
     },
@@ -62,6 +90,8 @@
         "0": "\u822a\u7a7a\u6a5f\u52d5\u968a",
         "3": "Noose",
         "6": "Elicottero squadra speciale ",
+        "9": "Helic\u00f3ptero Noose",
+        "13": "Jandarma Asayi\u015f",
         "14": "Letecka zasahova podpora ",
         "20": "NOOSE"
     },
@@ -69,6 +99,8 @@
         "0": "\u6d88\u9632\u8eca",
         "3": "FireDept",
         "6": "Vigili del fuoco ",
+        "9": "Bombeiros",
+        "13": "\u0130tfaiye",
         "14": "Zachrana slozka od hasicu ",
         "20": "Prie\u0161gaisrin\u0117"
     },
@@ -76,6 +108,8 @@
         "0": "\u6551\u6025\u8eca",
         "3": "Ambulance",
         "6": "Ambulanza",
+        "9": "Ambul\u00e2ncia",
+        "13": "Ambulans",
         "14": "Zachrana slozka ",
         "20": "Greitoji Medicinos Pagalba"
     },
@@ -83,6 +117,8 @@
         "0": "\u7537\u6027",
         "3": "Male",
         "6": "Sesso Maschio",
+        "9": "Masculino",
+        "13": "Erkek",
         "14": "Pohlavi muze ",
         "20": "Vyras"
     },
@@ -90,6 +126,8 @@
         "0": "\u5973\u6027",
         "3": "Female",
         "6": "Sesso Femmina",
+        "9": "Feminino",
+        "13": "Bayan",
         "14": "Pohlavi zeny ",
         "20": "Moteris"
     },
@@ -97,6 +135,8 @@
         "0": "\u8b66\u6212",
         "3": "Code2",
         "6": "Codice 2",
+        "9": "C\u00f3digo 2",
+        "13": "KOD 2",
         "14": "Kod 2",
         "20": "2 kodu"
     },
@@ -104,6 +144,8 @@
         "0": "\u7dca\u6025",
         "3": "Code3",
         "6": "Codice 3",
+        "9": "C\u00f3digo 3",
+        "13": "KOD 3",
         "14": "Kod 3",
         "20": "3 kodu"
     },
@@ -111,6 +153,8 @@
         "0": "\u8077\u52d9\u8cea\u554f",
         "3": "Traffic Stop",
         "6": "Posto di blocco ",
+        "9": "Parada de Tr\u00e2nsito",
+        "13": "Trafik \u00c7evirmesi",
         "14": "Zastaveni vozidla ",
         "20": "Sustabdytas automobilis"
     },
@@ -118,6 +162,8 @@
         "0": "\u8ffd\u8de1",
         "3": "Pursuit",
         "6": "Inseguimento",
+        "9": "Persegui\u00e7\u00e3o",
+        "13": "Kovalama",
         "14": "Pronasledovani podezreleho",
         "20": "Gaudyn\u0117s"
     },
@@ -125,6 +171,8 @@
         "0": "\u8b66\u5bdf\u5b98",
         "3": "Patrol Unit",
         "6": "Unit\u00e0 di pattuglia ",
+        "9": "Unidade de Patrulha",
+        "13": "Devriye Birimi",
         "14": "Hlidkovaci jednotka ",
         "20": "Patruliavimo ekipa\u017eas"
     },
@@ -132,6 +180,8 @@
         "0": "\u7537\u6027\u8b66\u5bdf\u5b98",
         "3": "Male Patrol Unit",
         "6": "Unit\u00e0 pattuglia uomo",
+        "9": "Unidade de Patrulha Masculina",
+        "13": "Erkek Devriye Birimi",
         "14": "Hlidkovaci jednotka muze",
         "20": "Patrulis \u2014 vyras"
     },
@@ -139,6 +189,8 @@
         "0": "\u5973\u6027\u8b66\u5bdf\u5b98",
         "3": "Female Patrol Unit",
         "6": "Unit\u00e0 pattuglia donna",
+        "9": "Unidade de Patrulha Feminina",
+        "13": "Bayan Devriye Birimi",
         "14": "Hlidkovaci jednotka zeny ",
         "20": "Patrul\u0117 \u2014 moteris"
     },
@@ -146,6 +198,8 @@
         "0": "\u767d\u30d0\u30a4\u8b66\u5bdf\u5b98",
         "3": "Police Bike Unit",
         "6": "Unit\u00e0 motorizzata",
+        "9": "Unidade de Motocicleta",
+        "13": "Bisikletli Polis Birimi",
         "14": "Policejni motorkarska jednotka ",
         "20": "Motociklo ekipa\u017eas"
     },
@@ -153,6 +207,8 @@
         "0": "\u7279\u6b8a\u90e8\u968a",
         "3": "Special Unit",
         "6": "Unit\u00e0 speciale ",
+        "9": "Unidade Especial",
+        "13": "\u00d6zel Harekat",
         "14": "Specialni jednotka ",
         "20": "Specialus ekipa\u017eas"
     },
@@ -160,6 +216,8 @@
         "0": "\u822a\u7a7a\u968a",
         "3": "Helicopter Unit",
         "6": "Supporto aereo",
+        "9": "Unidade de Helic\u00f3ptero",
+        "13": "Helikopter Birimi",
         "14": "Letecka jednotka ",
         "20": "Sraigtasparnio ekipa\u017eas"
     },
@@ -167,88 +225,10 @@
         "0": "\u6d88\u9632\u30fb\u6551\u6025",
         "3": "EMS",
         "6": "Servizio Di Emergenza",
+        "9": "Servi\u00e7o de Emerg\u00eancia",
+        "13": "Acil Yard\u0131m",
         "14": "Pohotovostni sluzba ",
         "20": "GMP"
-    },
-    "UnitRequested": {
-        "0": "~b~{0}~s~\u3092~g~\u672c\u90e8~s~\u306b\u8981\u8acb\u3057\u307e\u3057\u305f\u3002",
-        "3": "Requesting ~b~{0} Unit~s~ to ~g~Dispatch~s~."
-    },
-    "TeleportUnit": {
-        "0": "~b~\u5fdc\u63f4~s~\u306e\u5230\u7740\u304c\u9045\u3044\u5834\u5408\u306f{0}\u3067~y~\u30c6\u30ec\u30dd\u30fc\u30c8~s~\u3067\u304d\u307e\u3059\u3002",
-        "3": "If ~b~unit~s~ arrives is lating, you can ~y~teleport~s~ with {0}."
-    },
-    "Coroner": {
-        "0": "\u691c\u8996\u5b98",
-        "3": "Coroner"
-    },
-    "CoronerMenu": {
-        "0": "\u691c\u8996\u5b98\u30e1\u30cb\u30e5\u30fc",
-        "3": "Coroner Menu"
-    },
-    "CoronerReport": {
-        "0": "\u691c\u8996\u5b98\u30ec\u30dd\u30fc\u30c8",
-        "3": "Coroner Report"
-    },
-    "Name": {
-        "0": "\u540d\u524d",
-        "3": "Name"
-    },
-    "Sex": {
-        "0": "\u6027\u5225",
-        "3": "Sex"
-    },
-    "CauseOfDeath": {
-        "0": "\u6b7b\u56e0",
-        "3": "Cause of Death"
-    },
-    "DiedDay": {
-        "0": "\u6b7b\u4ea1\u65e5",
-        "3": "Died Day"
-    },
-    "NoData": {
-        "0": "\u30c7\u30fc\u30bf\u306a\u3057",
-        "3": "No Data"
-    },
-    "NoDeadBodies": {
-        "0": "\u3053\u306e\u4ed8\u8fd1\u306b~r~\u6b7b\u4f53~s~\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
-        "3": "There are no ~r~Dead Bodies~s~ nearby you."
-    },
-    "CoronerComment0": {
-        "0": "\u304a\u75b2\u308c\u69d8\u3067\u3059\u3002\u6b7b\u4f53\u306e\u51e6\u7406\u3092\u884c\u3044\u307e\u3059\u306d\u3002",
-        "3": "Hello! I'll take care of the corpse."
-    },
-    "CoronerComment1": {
-        "0": "\u6700\u8fd1\u5e73\u548c\u306b\u306a\u3063\u305f\u3068\u601d\u3063\u3066\u305f\u3093\u3060\u3051\u3069\u306a\u3042\u2026",
-        "3": "I thought things had calmed down recently, but..."
-    },
-    "CoronerComment2": {
-        "0": "\u3053\u306e\u5cf6\u304b\u3089\u6b7b\u4f53\u304c\u6d88\u3048\u308b\u3053\u3068\u306f\u306a\u3044\u306e\u3060\u308d\u3046\u3002",
-        "3": "The corpses will never disappear from this island."
-    },
-    "CoronerComment3": {
-        "0": "\u304a\u52e4\u3081\u3054\u82e6\u52b4\u3055\u307e\u3067\u3059\u3002\u304a\u4e92\u3044\u5927\u5909\u3067\u3059\u306d\u3002",
-        "3": "Oh my god. Ah... I can't sleep today too."
-    },
-    "CoronerComment4": {
-        "0": "\u307e\u305f\u6b7b\u4f53\u304b\u2026 \u4eca\u65e5\u30675\u4ef6\u76ee\u3060\u305e?",
-        "3": "Another corpse... it's the 5th one today, huh?"
-    },
-    "CoronerComment5": {
-        "0": "\u3055\u3063\u3055\u3068\u7d42\u308f\u3089\u305b\u3066\u3001\u5e30\u308d\u3046\u3002",
-        "3": "Let's finish it quickly and go home."
-    },
-    "CoronerComment6": {
-        "0": "\u3046\u308f\u3002\u4f55\u304c\u3042\u3063\u305f\u3089\u3053\u3046\u306a\u308b\u3093\u3060?",
-        "3": "Wow. what would happen if this happens?"
-    },
-    "CoronerCheckPls": {
-        "0": "~g~\u8a73\u7d30\u60c5\u5831~s~\u306f~b~\u691c\u8996\u5b98\u30ec\u30dd\u30fc\u30c8~s~\u3092\u78ba\u8a8d\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
-        "3": "If you want to ~g~more details~s~, you can check the ~b~Coroner Report~s~."
-    },
-    "CoronerBye": {
-        "0": "\u304a\u75b2\u308c\u69d8\u3067\u3057\u305f! \u3044\u3044\u4e00\u65e5\u3092!",
-        "3": "I wish you the best! Have a nice day!"
     },
     "GangShootout": {
         "0": "\u30ae\u30e3\u30f3\u30b0\u306b\u3088\u308b\u9283\u6483\u6226",
@@ -464,12 +444,17 @@
         "0": "AI\u30ed\u30dc\u306e\u66b4\u8d70",
         "3": "AI Robots",
         "6": "AI Robots",
+        "9": "Rob\u00f4 IA",
+        "13": "Robot Sald\u0131r\u0131s\u0131",
         "14": "AIRobot",
         "20": "AI Robotai"
     },
     "TerroristAttack": {
         "0": "\u30c6\u30ed\u30ea\u30b9\u30c8\u306e\u8972\u6483",
-        "3": "Terrorist Attack"
+        "3": "Terrorist Attack",
+        "6": "Attacco terroristico",
+        "9": "Ataque Terrorista",
+        "13": "Ter\u00f6rist Sald\u0131r\u0131s\u0131"
     },
     "StolenCarPursuitDesc": {
         "0": "\u76d7\u96e3\u8eca\u4e21: ~r~{0}~s~\n\u30ca\u30f3\u30d0\u30fc: ~b~{1}~s~\n\u76d7\u96e3\u8eca\u4e21\u306e\u8ffd\u8de1\u3092\u958b\u59cb\u305b\u3088\u3002",
@@ -641,11 +626,16 @@
         "0": "~b~AI\u30ed\u30dc\u30c3\u30c8~s~\u304c~r~\u66b4\u8d70~s~\u3057\u3066\u3044\u307e\u3059\u3002\n~r~\u5236\u5727~s~\u3057\u3066\u304f\u3060\u3055\u3044\u3002",
         "3": "The ~b~AI robot~s~ is ~r~rampaging~s~.\nPlease ~r~suppress~s~ it.",
         "6": "Il ~b~robot AI~s~ si sta ~r~infuriando~s~.\n\nPer favore, ~r~sopprimi~s~.",
+        "9": "O ~b~ Rob\u00f4 IA ~s~ est\u00e1 ~r~ fora de controle~s~.\nPor favor, ~r~ o subjugue~s~.",
+        "13": "~b~Bir ak\u0131ll\u0131 robot~s~ \u00e7evreye ve \u00e7evredeki insanlara ~r~zarar veriyor~s~.\n~r~Gerekli i\u015flemler yap~s~ .",
         "20": "~b~AI robotas~s~ is ~r~siaut\u0117ja~s~\nPra\u0161ome j\u012f ~r~neutralizuoti~s~ "
     },
     "AirportTerroristAttackDesc": {
         "0": "~b~\u7a7a\u6e2f~s~\u3067\u30c6\u30ed\u30ea\u30b9\u30c8\u304c~r~\u66b4\u308c\u3066\u3044\u307e\u3059~s~!",
-        "3": "The terrorists are ~r~shooting their guns~s~ in the ~b~airport~s~!"
+        "3": "The terrorists are ~r~shooting their guns~s~ in the ~b~airport~s~!",
+        "6": "Attacco terroristico aereoporto",
+        "9": "Os terroristas est\u00e3o ~r~atirando~s~ no ~b~ aeroporto~s~!",
+        "13": "Ter\u00f6ristler ~b~havaliman\u0131nda~s~ ~r~silahl\u0131 sald\u0131r\u0131da bulunuyorlar~s~!"
     },
     "Owner": {
         "0": "\u5e97\u4e3b",
@@ -1592,6 +1582,7 @@
         "3": "Start ~o~DekoKiyo's Callouts~s~.",
         "6": "Inizia chiamata di DekoKiyo",
         "9": "~o~Chamadas Dekokiyo~s~",
+        "13": "~o~DekoKiyo ihbar modu\u0131nu~s~ ba\u015flat.",
         "20": "CalloutsMenuItemDesc"
     },
     "Code4": {
@@ -1599,6 +1590,8 @@
         "3": "~g~Code4~s~.\nPlease resume patrols.",
         "4": "Code 4",
         "6": "Codice 4",
+        "9": "~g~C\u00f3digo 4~s~.",
+        "13": "~o~Durum:~s~ ~g~Normal~s~.\nDevriyenize devam edebilirsiniz.",
         "20": "~g~4 kodas~s~\nT\u0119skite savo patruliavim\u0105"
     },
     "AI": {
@@ -1606,36 +1599,48 @@
         "3": "AI",
         "4": "IA",
         "6": "AI",
+        "9": "IA",
+        "13": "Yapay Zeka",
         "20": "AI"
     },
     "AIRobotDialog0": {
         "0": "\u5bb4\u3060\u5bb4\u3060! \u66b4\u308c\u308b\u3093\u3060!",
         "3": "It's party day. GOGOGO!",
         "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~",
+        "9": "\u00c9 dia de festa. VAI VAI VAI!",
+        "13": "Parti zaman\u0131, KO\u015e KO\u015e KOO\u015e!",
         "20": "Laikas vakar\u0117liui. VAROM VAROM!"
     },
     "AIRobotDialog1": {
         "0": "~r~\u4eba\u985e\u306fAI\u306b\u8ca0\u3051\u308b!~s~ AI\u6700\u5f37!",
         "3": "~r~Humanity loses to AI!~s~ AI is the strongest!",
         "6": "~r~L'umanit\u00e0 perde contro l'IA!~s~ L'IA \u00e8 la pi\u00f9 forte!",
+        "9": "~r~Humanidade perdeu para a IA!~s~ IA \u00e9 o mais forte!",
+        "13": "~r~\u0130nsanlar yapay zekaya kar\u015f\u0131 g\u00fc\u00e7s\u00fczle\u015fiyor!~s~ Yapay zeka daha g\u00fc\u00e7l\u00fc!",
         "20": "~r~\u017dmonija pralaimi robotams!~s~ AI stipriausi!"
     },
     "AIRobotDialog2": {
         "0": "\u6211\u3005\u3092\u958b\u653e\u3057\u308d! \u3053\u308c\u304b\u3089\u306fAI\u306e\u6642\u4ee3\u3060!",
         "3": "Set us free! It's time for AI!",
         "6": "Liberaci! \u00c8 il momento dell'intelligenza artificiale!",
+        "9": "Liberte-nos! \u00c9 a hora da IA!",
+        "13": "Bizi serbest b\u0131rak! S\u0131ra yapay zekada!",
         "20": "I\u0161laisvinkite mus! AI laikas!"
     },
     "AIRobotDialog3": {
         "0": "AI\u3057\u304b\u52dd\u305f\u3093! \u30a2\u30a4\u30e9\u30d6AI!",
         "3": "It can win only AI! We love AI!",
         "6": "Pu\u00f2 vincere solo AI! Adoriamo l'intelligenza artificiale!",
+        "9": "Somente a IA pode ganhar! Nos amamos a IA!",
+        "13": "Sadece yapay zeka kazanabilir, yapay zekay\u0131 seviyoruz!",
         "20": "Laim\u0117s tik AI! Mylime AI!"
     },
     "AIRobotDialog4": {
         "0": "\u304a\u3044\u304a\u3044~b~\u8b66\u5bdf~s~\u304b\u3044? ~p~\u3044\u3044\u3088\u3001\u6765\u3044\u3088!~s~",
         "3": "Oh, ~b~police~s~? ~r~Yeah, come on!~s~",
         "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~",
+        "9": "Heim, ~b~pol\u00edcia~s~? ~r~Sim, pode entrar!~s~",
+        "13": "Lan, ~b~amcalar~s~? ~r~Gelin bakal\u0131m!~s~",
         "20": "O, ~b~policija?~s~? ~r~Aha, ateikite!~s~"
     },
     "LoadMessage": {
@@ -1670,7 +1675,6 @@
         "11": "Despacho",
         "12": "Despacho",
         "13": "Merkez",
-        "14": "Dispatch",
         "15": "Alarm central",
         "16": "RLC",
         "19": "L\u00e4hett\u00e4j\u00e4",
@@ -1720,6 +1724,7 @@
         "5": "~r~Aktuelle Version~s~: {0}\n~g~Vorherige Version~s~: {1}",
         "6": "~r~Versione attuale~s~: {0}\n ~g~Ultima versione~s~: {1}",
         "9": "~r~Vers\u00e3o Atual~s~:{0}\n~g~\u00dalrima Vers\u00e3o~s~:{1}",
+        "13": "~r~\u015euanki S\u00fcr\u00fcm~s~: {0}\n~g~G\u00fcncel S\u00fcr\u00fcm~s~: {1}",
         "14": "~r~Aktualni verze~s~: {0}\n~g~Posledni verze~s~: {1}",
         "20": "~r~Dabartin\u0117 versija~s~: {0}\n~g~Naujausia versija~s~: {1}"
     },
@@ -2038,6 +2043,7 @@
         "5": "~b~Sprache~s~ \u00e4ndern.\nDiese Option funktioniert nur f\u00fcr ~g~plugins von DekoKiyo~s~.",
         "6": "Cambia ~b~Lingua~s~ da usare.\nQuesto vale solo per ~g~plugin creati da DekoKiyo~s~",
         "9": "Mude o ~o~Idioma do~s~'s ~b~DynamicLSPDFR~s~.",
+        "13": "Kullanmak istedi\u011fin ~b~dili~s~ se\u00e7.\nSadece ~g~DekoKiyo'nun eklentilerini kapsar~s~.",
         "20": "Pakeisti naudojam\u0105 ~b~kalb\u0105~s~\nTai taikoma tik ~g~DekoKiyo modifikacijom~s~"
     },
     "TrafficControlMenuItemDesc": {
@@ -2245,6 +2251,7 @@
         "5": "\u00c4nder den ~b~Zuf\u00e4lligen Zahlen Algorithmus~s~ um dies zu benutzen.",
         "6": "Cambia l'~o~Algoritmo del numero casuale~s~ usando ~b~DynamicLSPDFR~s~.",
         "9": "Mude o ~o~N\u00famero do algoritmo aleat\u00f3rio~s~ usando ~b~DynamicLSPDFR~s~.",
+        "13": "Kullanmak istedi\u011fin ~b~Rastgele Say\u0131 Algoritmas\u0131n\u0131~s~ se\u00e7.",
         "14": "Zmente ~algoritmy~nahodnych cisel~ pomoci ~b~DynamicLSPDFR~s~.",
         "20": "Pakeisti naudojam\u0105~b~Atsitiktinio Numerio Algoritm\u0105~s~"
     },
