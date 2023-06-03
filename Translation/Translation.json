@@ -4,42 +4,54 @@
         "3": "Advamcement",
         "6": "Avanzamento",
         "9": "Avan\u00e7o",
-        "13": "\u0130lerleme"
+        "13": "\u0130lerleme",
+        "14": "Povyseni",
+        "20": "Pa\u017eanga"
     },
     "AdvancementStatus": {
         "0": "\u5b9f\u7e3e\u306e\u72b6\u614b\u3092\u78ba\u8a8d",
         "3": "Check Advancement Status",
         "6": "Stato avanzamento ",
         "9": "Status de Avan\u00e7o",
-        "13": "\u0130lerlemeyi Kontrol Et"
+        "13": "\u0130lerlemeyi Kontrol Et",
+        "14": "Zkontrolujte stav povyseni",
+        "20": "Patikrinti pa\u017eangos status\u0105"
     },
     "AdvancementCompleted": {
         "0": "\u5b9f\u7e3e\u89e3\u9664",
         "3": "You made the Advancement",
         "6": "Avanzamento Completato",
         "9": "Progresso Conclu\u00eddo",
-        "13": "\u0130lerleme Kaydettin"
+        "13": "\u0130lerleme Kaydettin",
+        "14": "Udelal jsi Povyseni",
+        "20": "J\u016bs \u012fvykdet\u0117 pa\u017eang\u0105"
     },
     "AdvancementName": {
         "0": "\u5b9f\u7e3e\u540d",
         "3": "Advancement Name",
         "6": "Nome Avanzamento",
         "9": "Nome do Avan\u00e7o",
-        "13": "Ba\u015far\u0131m Ad\u0131"
+        "13": "Ba\u015far\u0131m Ad\u0131",
+        "14": "Nazev povyseni",
+        "20": "Pa\u017eangos pavadinimas"
     },
     "AdvancementMadeTime": {
         "0": "\u89e3\u9664\u3057\u305f\u65e5",
         "3": "Completed Day",
         "6": "Tempo avanzamento",
         "9": "Tempo do Avan\u00e7o",
-        "13": "Tamamlanan G\u00fcn"
+        "13": "Tamamlanan G\u00fcn",
+        "14": "Dokonceny den",
+        "20": "Atlikimo diena"
     },
     "AdvancementProgress": {
         "0": "\u5b9f\u7e3e\u89e3\u9664\u7387",
         "3": "Progress",
         "6": "Progresso avanzamento",
         "9": "Progresso do Avan\u00e7o",
-        "13": "S\u00fcre\u00e7"
+        "13": "S\u00fcre\u00e7",
+        "14": "Pokrok",
+        "20": "Progresas"
     },
     "BackupLocal": {
         "0": "\u81ea\u52d5\u8eca\u8b66\u3089\u968a",
@@ -454,7 +466,8 @@
         "3": "Terrorist Attack",
         "6": "Attacco terroristico",
         "9": "Ataque Terrorista",
-        "13": "Ter\u00f6rist Sald\u0131r\u0131s\u0131"
+        "13": "Ter\u00f6rist Sald\u0131r\u0131s\u0131",
+        "14": "Teroristicky utok"
     },
     "StolenCarPursuitDesc": {
         "0": "\u76d7\u96e3\u8eca\u4e21: ~r~{0}~s~\n\u30ca\u30f3\u30d0\u30fc: ~b~{1}~s~\n\u76d7\u96e3\u8eca\u4e21\u306e\u8ffd\u8de1\u3092\u958b\u59cb\u305b\u3088\u3002",
@@ -628,6 +641,7 @@
         "6": "Il ~b~robot AI~s~ si sta ~r~infuriando~s~.\n\nPer favore, ~r~sopprimi~s~.",
         "9": "O ~b~ Rob\u00f4 IA ~s~ est\u00e1 ~r~ fora de controle~s~.\nPor favor, ~r~ o subjugue~s~.",
         "13": "~b~Bir ak\u0131ll\u0131 robot~s~ \u00e7evreye ve \u00e7evredeki insanlara ~r~zarar veriyor~s~.\n~r~Gerekli i\u015flemler yap~s~ .",
+        "14": "Robot ~b~AI~s~ dela ~r~bordel~s~.\nProsim ~r~zastavte~s~ ho.",
         "20": "~b~AI robotas~s~ is ~r~siaut\u0117ja~s~\nPra\u0161ome j\u012f ~r~neutralizuoti~s~ "
     },
     "AirportTerroristAttackDesc": {
@@ -635,7 +649,8 @@
         "3": "The terrorists are ~r~shooting their guns~s~ in the ~b~airport~s~!",
         "6": "Attacco terroristico aereoporto",
         "9": "Os terroristas est\u00e3o ~r~atirando~s~ no ~b~ aeroporto~s~!",
-        "13": "Ter\u00f6ristler ~b~havaliman\u0131nda~s~ ~r~silahl\u0131 sald\u0131r\u0131da bulunuyorlar~s~!"
+        "13": "Ter\u00f6ristler ~b~havaliman\u0131nda~s~ ~r~silahl\u0131 sald\u0131r\u0131da bulunuyorlar~s~!",
+        "14": "Teroriste ~r~strili ze svych zbrani~ na ~b~letisti~~!"
     },
     "Owner": {
         "0": "\u5e97\u4e3b",
@@ -1583,6 +1598,7 @@
         "6": "Inizia chiamata di DekoKiyo",
         "9": "~o~Chamadas Dekokiyo~s~",
         "13": "~o~DekoKiyo ihbar modu\u0131nu~s~ ba\u015flat.",
+        "14": "Spustte ~o~DekoKiyo's Callouty~s~.",
         "20": "CalloutsMenuItemDesc"
     },
     "Code4": {
@@ -1592,6 +1608,7 @@
         "6": "Codice 4",
         "9": "~g~C\u00f3digo 4~s~.",
         "13": "~o~Durum:~s~ ~g~Normal~s~.\nDevriyenize devam edebilirsiniz.",
+        "14": "~g~pod kodem 4~s~.\nProsim pokracujte v patrole dal.",
         "20": "~g~4 kodas~s~\nT\u0119skite savo patruliavim\u0105"
     },
     "AI": {
@@ -1601,6 +1618,7 @@
         "6": "AI",
         "9": "IA",
         "13": "Yapay Zeka",
+        "14": "AI",
         "20": "AI"
     },
     "AIRobotDialog0": {
@@ -1609,6 +1627,7 @@
         "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~",
         "9": "\u00c9 dia de festa. VAI VAI VAI!",
         "13": "Parti zaman\u0131, KO\u015e KO\u015e KOO\u015e!",
+        "14": "Je den vecirku. TAK JDI!",
         "20": "Laikas vakar\u0117liui. VAROM VAROM!"
     },
     "AIRobotDialog1": {
@@ -1617,6 +1636,7 @@
         "6": "~r~L'umanit\u00e0 perde contro l'IA!~s~ L'IA \u00e8 la pi\u00f9 forte!",
         "9": "~r~Humanidade perdeu para a IA!~s~ IA \u00e9 o mais forte!",
         "13": "~r~\u0130nsanlar yapay zekaya kar\u015f\u0131 g\u00fc\u00e7s\u00fczle\u015fiyor!~s~ Yapay zeka daha g\u00fc\u00e7l\u00fc!",
+        "14": "~r~Lidstvo prohrava s AI!~s~ AI je nejsilnejsi!",
         "20": "~r~\u017dmonija pralaimi robotams!~s~ AI stipriausi!"
     },
     "AIRobotDialog2": {
@@ -1625,6 +1645,7 @@
         "6": "Liberaci! \u00c8 il momento dell'intelligenza artificiale!",
         "9": "Liberte-nos! \u00c9 a hora da IA!",
         "13": "Bizi serbest b\u0131rak! S\u0131ra yapay zekada!",
+        "14": "Osvobodte nas! Je cas na AI!",
         "20": "I\u0161laisvinkite mus! AI laikas!"
     },
     "AIRobotDialog3": {
@@ -1633,6 +1654,7 @@
         "6": "Pu\u00f2 vincere solo AI! Adoriamo l'intelligenza artificiale!",
         "9": "Somente a IA pode ganhar! Nos amamos a IA!",
         "13": "Sadece yapay zeka kazanabilir, yapay zekay\u0131 seviyoruz!",
+        "14": "Muze vyhrat pouze AI! Milujeme AI!",
         "20": "Laim\u0117s tik AI! Mylime AI!"
     },
     "AIRobotDialog4": {
@@ -1641,6 +1663,7 @@
         "6": "Oh, ~b~polizia~s~? ~r~S\u00ec, andiamo!~s~",
         "9": "Heim, ~b~pol\u00edcia~s~? ~r~Sim, pode entrar!~s~",
         "13": "Lan, ~b~amcalar~s~? ~r~Gelin bakal\u0131m!~s~",
+        "14": "Oh, ~b~policie~s~? ~r~Jen pojd!~s~",
         "20": "O, ~b~policija?~s~? ~r~Aha, ateikite!~s~"
     },
     "LoadMessage": {
@@ -1675,6 +1698,7 @@
         "11": "Despacho",
         "12": "Despacho",
         "13": "Merkez",
+        "14": "Centrala",
         "15": "Alarm central",
         "16": "RLC",
         "19": "L\u00e4hett\u00e4j\u00e4",
@@ -2044,6 +2068,7 @@
         "6": "Cambia ~b~Lingua~s~ da usare.\nQuesto vale solo per ~g~plugin creati da DekoKiyo~s~",
         "9": "Mude o ~o~Idioma do~s~'s ~b~DynamicLSPDFR~s~.",
         "13": "Kullanmak istedi\u011fin ~b~dili~s~ se\u00e7.\nSadece ~g~DekoKiyo'nun eklentilerini kapsar~s~.",
+        "14": "Zmente ~b~Jazyk~s~ ktery chcete pouzivat.\nTo plati pouze pro ~g~pluginy vytvorene DekoKiyo~s~.",
         "20": "Pakeisti naudojam\u0105 ~b~kalb\u0105~s~\nTai taikoma tik ~g~DekoKiyo modifikacijom~s~"
     },
     "TrafficControlMenuItemDesc": {
