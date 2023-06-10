@@ -1,5 +1,3 @@
-base_path: Translation
-
 files:
   - source: *.xlsx
     translation: '%original_file_name%'
