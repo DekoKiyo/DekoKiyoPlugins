@@ -1,0 +1,13 @@
+export_languages:
+  - ja
+pull_request_title: Crowdin Translate Update
+pull_request_labels:
+  - Crowdin
+commit_message: 'Update: %original_file_name% File from Crowdin'
+append_commit_message: 
+files:
+  - source: /ja/*xlsx
+    translation: '%original_file_name%'
+    multilingual_spreadsheet: 1
+    first_line_contains_header: 1
+    scheme: 'source_phrase,ja,zh-CN,zh-TW,en,fr,de,it,ko,pt-PT,pt-BR,ru,es-ES,es-419,tr,cs,da,sv-SE,hu,sk,fi,lt'
