@@ -1,5 +1,8 @@
+base_path: Translation
+commit_message: "[Crowdin] %original_file_name%が更新されました。"
+
 files:
-  - source: /Translation/*.xlsx
+  - source: *.xlsx
     translation: '%original_file_name%'
     first_line_contains_header: 1
     scheme: 'source_phrase,translation'
