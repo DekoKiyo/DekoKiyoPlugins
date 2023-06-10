@@ -1,5 +1,5 @@
 files:
-  - source: Translation/*xlsx
-    translation: Translation/%original_file_name%
+  - source: /Translation/*xlsx
+    translation: /Translation/%two_letters_code%/%original_file_name%
     first_line_contains_header: 1
     scheme: 'source_phrase,translation'
