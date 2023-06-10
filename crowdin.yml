@@ -3,7 +3,7 @@ export_languages:
 pull_request_title: Crowdin Translate Update
 pull_request_labels:
   - Crowdin
-commit_message: 'Update: %original_file_name% File (%two_letters_code%) from Crowdin'
+commit_message: 'Update: %original_file_name% File from Crowdin'
 append_commit_message: 
 files:
   - source: /Translation/*xlsx
