@@ -1,7 +1,0 @@
-commit_message: "[Crowdin] %original_file_name%\U00E381AE\U00E7BFBB\U00E8A8B3\U00E38292\U00E5908C\U00E69C9F"
-files:
-  - source: '*.xlsx'
-    translation: '%original_file_name%'
-    multilingual_spreadsheet: 1
-    first_line_contains_header: 1
-    scheme: 'source_phrase,translation'
