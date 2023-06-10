@@ -1,5 +1,6 @@
 files:
-  - source: /Translation/*xlsx
-    translation: /Translation/%locale%/%original_file_name%
+  - source: '*xlsx'
+    translation: '%original_file_name%'
+    multilingual_spreadsheet: 1
     first_line_contains_header: 1
-    scheme: 'source_phrase,translation'
+    scheme: 'source_phrase,ja,zh-CN,zh-TW,en,fr,de,it,ko,pt-PT,pt-BR,ru,es-ES,es-419,tr,cs,da,sv-SE,hu,sk,fi,lt'
