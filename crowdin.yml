@@ -1,14 +1,11 @@
-"base_path": "Translation"
-"export_languages": [
-    "ja"
-  ]
-"pull_request_title": "Pull Request: 翻訳アップデート"
-"pull_request_labels": [
-  "Crowdin"
-]
-"commit_message": "Update: Crowdinで更新された%two_letters_code%の%original_file_name%ファイルを更新"
-"append_commit_message": false
-
+base_path: Translation
+export_languages:
+  - ja
+pull_request_title: "Pull Request: \U00E7BFBB\U00E8A8B3\U00E382A2\U00E38383\U00E38397\U00E38387\U00E383BC\U00E38388"
+pull_request_labels:
+  - Crowdin
+commit_message: "Update: Crowdin\U00E381A7\U00E69BB4\U00E696B0\U00E38195\U00E3828C\U00E3819F新された%two_l\U00E381AEtters_code%の%origi\U00E38395\U00E382A1\U00E382A4\U00E383AB\U00E38292\U00E69BB4\U00E696B0"
+append_commit_message: 
 files:
   - source: '*xlsx'
     translation: '%original_file_name%'
