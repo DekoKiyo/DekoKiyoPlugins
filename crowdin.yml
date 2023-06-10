@@ -4,8 +4,7 @@
   ]
 "pull_request_title": "Pull Request: 翻訳アップデート"
 "pull_request_labels": [
-  "crowdin",
-  "l10n"
+  "Crowdin"
 ]
 "commit_message": "Update: Crowdinで更新された%two_letters_code%の%original_file_name%ファイルを更新"
 "append_commit_message": false
