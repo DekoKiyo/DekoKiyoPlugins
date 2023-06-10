@@ -6,7 +6,7 @@ pull_request_labels:
 commit_message: 'Update: %original_file_name% File from Crowdin'
 append_commit_message: 
 files:
-  - source: /Translation/*xlsx
+  - source: /ja/*xlsx
     translation: '%original_file_name%'
     multilingual_spreadsheet: 1
     first_line_contains_header: 1
