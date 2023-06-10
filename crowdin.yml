@@ -1,3 +1,4 @@
+commit_message: '[Crowdin] %original_file_name%の翻訳を同期'
 files:
   - source: '*.xlsx'
     translation: '%original_file_name%'
