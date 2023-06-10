@@ -1,4 +1,3 @@
-base_path: Translation
 export_languages:
   - ja
 pull_request_title: "Crowdin Translate Update"
