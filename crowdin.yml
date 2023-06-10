@@ -1,5 +1,4 @@
 base_path: Translation
-commit_message: "[Crowdin] %original_file_name%が更新されました。"
 
 files:
   - source: *.xlsx
