@@ -35,7 +35,7 @@ Check it when you get Error code!
 |    106     |               Failed to give **Hand Gun**.               |
 |    107     |               Failed to give **Long Gun**.               |
 |    108     |        Failed to attach **Blip** to Backup Unit.         |
-|    109     |                   _**Missing Number**_                   |
+|    109     |                     Error in walking                     |
 |    110     |          Error of Backup Unit when **moving**.           |
 |    111     |          Error of Backup Unit when **parking**.          |
 |    112     |       Error of Backup Unit when **leave Vehicle**.       |
