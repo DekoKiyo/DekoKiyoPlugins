@@ -9,6 +9,7 @@ Check it when you get Error code!
 | Error Code |                       Descriptions                       |
 | :--------: | :------------------------------------------------------: |
 |    000     |         DekoKiyo Tools Version is not supported.         |
+|     1      |            Failed to delete old version dll.             |
 |     30     |                                                          |
 |     31     |                                                          |
 |     50     |         Failed to initialize callout was began.          |
