@@ -70,7 +70,7 @@ Using to display UI like Context Menu.<br>
 ![](https://img.shields.io/badge/Grand%20Theft%20Auto%20V-1.0.2845.0-green)<br>
 
 ## Translator
-[**Translators Credits**](https://github.com/Dekokiyo/DekoKiyoPlugins/wiki/CreditsEN#translator)
+[**Translators Credits**](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/Translators.md)
 
 ## Supporters
 Plugin Idea: Mr. Kiwatani<br>

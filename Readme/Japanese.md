@@ -77,7 +77,7 @@ DekoKiyoPluginsで使用する乱数生成アルゴリズムを指定できま�
 ![](https://img.shields.io/badge/Grand%20Theft%20Auto%20V-1.0.2845.0-green)<br>
 
 ## 翻訳者
-[**翻訳者のクレジット**](https://github.com/Dekokiyo/DekoKiyoPlugins/wiki/CreditsEN#translator)
+[**翻訳者のクレジット**](https://github.com/DekoKiyo/DekoKiyoPlugins/blob/main/Readme/Translators.md)
 
 ## サポーター
 アイデア: きわたに<br>
