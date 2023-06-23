@@ -12,7 +12,7 @@
 
 [![](https://img.shields.io/twitter/url?label=DekoKiyomori&style=social&url=https%3A%2F%2Ftwitter.com%2FDekoKiyomori)](https://twitter.com/DekoKiyomori)
 [![](https://img.shields.io/badge/DekoKiyoPlugins-%20-ffffff?style=social&logo=github)](https://github.com/Dekokiyo/DekoKiyoPlugins)<br>
-[![](https://img.shields.io/badge/Version-0.2.0.0-blue)](https://www.lcpdfr.com/downloads/gta5mods/scripts/43022-dynamic-lspdfr-add-callouts-and-more/)
+[![](https://img.shields.io/badge/Version-1.0.3.1-blue)](https://www.lcpdfr.com/downloads/gta5mods/scripts/43022-dynamic-lspdfr-add-callouts-and-more/)
 
 </p>
 
