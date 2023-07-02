@@ -38,3 +38,12 @@ These are supported Languages of DekoKiyo Tools
 |     19      |        Finnish         |   [Link](https://crowdin.com/project/dekokiyoplugin/fi)   |
 |     20      |       Lithuanian       |   [Link](https://crowdin.com/project/dekokiyoplugin/lt)   |
 |     21      |         Custom         |                           None                            |
+
+## Algorithms
+|Algorithm ID|Algorithm Name|
+|:-:|:-:|
+|0|SystemRandom|
+|1|MersenneTwister|
+|2|XorShift|
+|3|WellGenerator|
+|4|PcgGenerator|
